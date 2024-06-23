@@ -17,15 +17,15 @@ For Backend
 
 ## go to frontend folder
 
- # npm install
+ ### npm install
 
-# got to db.js file and add mongoose link (connect your database)
+### got to db.js file and add mongoose link (connect your database)
 
-# mongodb+srv://NAME:PASSWORD@cluster0.drcpyjj.mongodb.net/DATABASE_NAME
+### mongodb+srv://NAME:PASSWORD@cluster0.drcpyjj.mongodb.net/DATABASE_NAME
 
 - replace NAME, PASSWORD and DATABASE name
 
-# node index.js
+### node index.js
 
  - For Frontend go to frontend folder
 
